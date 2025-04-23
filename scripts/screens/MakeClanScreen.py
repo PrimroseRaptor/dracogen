@@ -1491,7 +1491,7 @@ class MakeClanScreen(Screens):
         self.sub_screen = "choose leader"
 
         self.elements["background"] = pygame_gui.elements.UIImage(
-            ui_scale(pygame.Rect((0, 414), (800, 286))),
+            ui_scale(pygame.Rect((0, 0), (800, 700))),
             self.leader_img,
             manager=MANAGER,
         )
@@ -1622,7 +1622,7 @@ class MakeClanScreen(Screens):
         self.sub_screen = "choose deputy"
 
         self.elements["background"] = pygame_gui.elements.UIImage(
-            ui_scale(pygame.Rect((0, 414), (800, 286))),
+            ui_scale(pygame.Rect((0, 0), (800, 700))),
             self.deputy_img,
             manager=MANAGER,
         )
@@ -1682,7 +1682,7 @@ class MakeClanScreen(Screens):
         self.sub_screen = "choose med cat"
 
         self.elements["background"] = pygame_gui.elements.UIImage(
-            ui_scale(pygame.Rect((0, 414), (800, 286))),
+            ui_scale(pygame.Rect((0, 0), (800, 700))),
             self.medic_img,
             manager=MANAGER,
         )
@@ -1742,7 +1742,7 @@ class MakeClanScreen(Screens):
         self.sub_screen = "choose members"
 
         self.elements["background"] = pygame_gui.elements.UIImage(
-            ui_scale(pygame.Rect((0, 414), (800, 286))),
+            ui_scale(pygame.Rect((0, 0), (800, 700))),
             pygame.transform.scale(
                 pygame.image.load(
                     "resources/images/pick_clan_screen/clan_none_light.png"
