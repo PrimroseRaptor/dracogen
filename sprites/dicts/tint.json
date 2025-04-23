@@ -43,9 +43,9 @@
   },
   "dilute_tint_colours":
   {
-    "dilute": [20, 20, 20],
-    "warmdilute": [25, 15, 7],
-    "cooldilute": [7, 15, 25],
+    "dilute": [226, 226, 226],
+    "warmdilute": [255, 235, 210],
+    "cooldilute": [210, 241, 255],
     "none": null
   }
 }
