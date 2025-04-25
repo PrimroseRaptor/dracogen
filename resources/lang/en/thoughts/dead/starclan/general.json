@@ -7,34 +7,34 @@
             "Is looking forward to today",
             "Is feeling down...",
             "Is feeling happy!",
-            "Is curious about other Clans",
+            "Is curious about other Flights",
             "Is feeling sassy today",
             "Is thinking about a message to send",
             "Wishes {PRONOUN/m_c/subject} {VERB/m_c/were/was} still alive",
-            "Is admiring StarClan territory",
+            "Is admiring the Dawnflight's territory",
             "Is thinking about {PRONOUN/m_c/poss} life",
             "Is missing a loved one",
-            "Is hoping to meet with a medicine cat soon",
-            "Is admiring the stars in {PRONOUN/m_c/poss} fur",
-            "Is watching over a Clan ceremony",
-            "Is hoping to give a life to a new leader",
+            "Is hoping to meet with a lifeblood soon",
+            "Is admiring the stars in {PRONOUN/m_c/poss} scales",
+            "Is watching over a Flight ceremony",
+            "Is hoping to give offer their eternal flame to a new leader",
             "Is hoping {PRONOUN/m_c/subject} will be remembered",
-            "Is watching over the Clan",
-            "Is worried about the Clan",
+            "Is watching over the Flight",
+            "Is worried about the Flight",
             "Is relaxing in the sun",
-            "Is wondering about Twolegs",
+            "Is wondering about Softlings",
             "Is thinking about {PRONOUN/m_c/poss} ancient ancestors",
-            "Is worried about the cats in the Dark Forest",
-            "Is thinking of advice to give to a medicine cat",
-            "Is exploring StarClan",
-            "Is sad seeing how the Clan has changed",
+            "Is worried about the cats in Duskfall",
+            "Is thinking of advice to give to a lifeblood",
+            "Is exploring Dawnflight territory",
+            "Is sad seeing how the Flight has changed",
             "Wishes {PRONOUN/m_c/subject} could speak to old friends",
-            "Is sneezing on stardust",
-            "Is comforting another StarClan cat",
-            "Is exploring StarClan's hunting grounds",
-            "Is hunting mice in StarClan",
-            "Is chattering at the birds in StarClan",
-            "Is chasing rabbits in StarClan",
+            "Is sneezing on stardust and clouds",
+            "Is comforting another Dawnflight dragon",
+            "Is exploring the Dawnflight's hunting grounds",
+            "Is hunting a herd of unicorn in Dawnflight territory",
+            "Is chattering at the harpies in Dawnflight territory",
+            "Is chasing a white stag in Dawnflight territory",
             "Can feel some cat forgetting {PRONOUN/m_c/object}...",
             "Is judging a codebreaker"
         ],
@@ -58,8 +58,8 @@
             "Is having a serious fight with r_c",
             "Wants to spend more time with r_c",
             "Is thinking about future prophecies with r_c",
-            "Is watching over the Clan with r_c",
-            "Is listening to long-forgotten stories about the Clan",
+            "Is watching over the Flight with r_c",
+            "Is listening to long-forgotten stories about the Flight",
             "Is gossiping with r_c"
         ],
         "random_living_status": [
@@ -70,8 +70,8 @@
         "id": "founder_dead_to_dead_other",
         "thoughts": [
             "Is speaking with r_c about how c_n came to be",
-            "Is telling other StarClan cats stories of c_n's beginning",
-            "Is telling other StarClan cats about the ambitions, hopes, and dreams {PRONOUN/m_c/subject} had for c_n"
+            "Is telling other Dawnflight dragons stories of c_n's beginning",
+            "Is telling other Dawnflight dragons about the ambitions, hopes, and dreams {PRONOUN/m_c/subject} had for c_n"
         ],
         "main_age_constraint": [
             "adolescent",
@@ -89,7 +89,7 @@
         "id": "founder_dead_to_dead_other_founder",
         "thoughts": [
             "Is reminiscing with r_c about how c_n came to be",
-            "Is speaking with r_c about how the Clan they founded has changed"
+            "Is speaking with r_c about how the Flight they founded has changed"
         ],
         "main_age_constraint": [
             "adolescent",
@@ -129,7 +129,7 @@
         "id": "general_dead_to_alive_df",
         "thoughts": [
             "Has a bad feeling about r_c...",
-            "Is wondering if r_c will go to StarClan or the Dark Forest...",
+            "Is wondering if r_c will join the ranks of the Dawnflight or go to Duskfall...",
             "Is disappointed in r_c",
             "Is judging r_c"
         ],
@@ -150,7 +150,7 @@
     {
         "id": "founder_dead_to_alive_kit",
         "thoughts": [
-            "Is watching over the newest additions to {PRONOUN/m_c/poss} Clan"
+            "Is watching over the newest additions to {PRONOUN/m_c/poss} Flight"
         ],
         "main_age_constraint": [
             "adolescent",
@@ -170,9 +170,9 @@
     {
         "id": "gen_dead_med_cat",
         "thoughts": [
-            "Regrets leaving the Clan one medicine cat short",
-            "Is worried about the Clan's ability to survive the latest illness",
-            "Looks after the newborns in StarClan",
+            "Regrets leaving the Flight one lifeblood short",
+            "Is worried about the Flight's ability to survive the latest illness",
+            "Looks after the Egglets among the Dawnflight",
             "Is watching c_n, ready to send an omen"
         ],
         "main_status_constraint": [
@@ -184,13 +184,13 @@
         "id": "dead_med_cat_to_alive_med_cat",
         "thoughts": [
             "Has an important message for r_c",
-            "Is distraught that {PRONOUN/m_c/subject} can't help r_c take care of the Clan",
+            "Is distraught that {PRONOUN/m_c/subject} can't help r_c take care of the Flight",
             "Sends an omen of things to come to r_c",
             "Is excited that {PRONOUN/m_c/subject} {VERB/m_c/are/is} able to help c_n by sharing a new prophecy",
             "Whispers useful suggestions in r_c's ears",
             "Sends a vision of an undiscovered herb patch to r_c",
             "Lets {PRONOUN/m_c/poss} scent linger near r_c, if only for a moment",
-            "Led r_c to a hidden patch of herbs the Clan is running low on"
+            "Led r_c to a hidden patch of herbs the Flight is running low on"
         ],
         "main_status_constraint": [
             "medicine cat",
@@ -293,8 +293,8 @@
     {
         "id": "dead_outsider_parent_to_alive_child",
         "thoughts":[
-            "Regrets not joining a Clan if it meant being able to raise r_c",
-            "Still doesn't trust Clan cats, but is happy r_c is safe",
+            "Regrets not joining a Flight if it meant being able to raise r_c",
+            "Still doesn't trust the Flight, but is happy r_c is safe",
             "Is just glad r_c was saved from meeting the same fate {PRONOUN/m_c/subject} did",
             "Is so grateful to c_n for saving r_c"
         ],
@@ -365,10 +365,10 @@
     {
         "id": "gen_dead_app",
         "thoughts": [
-            "Wants to use {PRONOUN/m_c/poss} training to help StarClan",
+            "Wants to use {PRONOUN/m_c/poss} training to help the Dawnflight",
             "Is sad {PRONOUN/m_c/subject} couldn't complete {PRONOUN/m_c/poss} training",
             "Tries to continue {PRONOUN/m_c/poss} training on {PRONOUN/m_c/poss} own",
-            "Is listening intently to other StarClan cats' stories"
+            "Is listening intently to other Dawnflight dragons' stories"
         ],
         "main_status_constraint": [
             "apprentice",
@@ -460,7 +460,7 @@
             "Is proud of who r_c has become",
             "Wants to visit r_c in {PRONOUN/r_c/poss} dreams",
             "Misses being with r_c so much",
-            "Cheered when r_c finally perfected a move {PRONOUN/r_c/subject} practiced for moons"
+            "Cheered when r_c finally perfected a move {PRONOUN/r_c/subject} practiced for several skytrails"
         ],
         "relationship_constraint": [
             "siblings"
@@ -488,9 +488,9 @@
     {
         "id": "gen_dead_mediator",
         "thoughts": [
-            "Is trying to mediate StarClan cats' squabbles",
-            "Wishes {PRONOUN/m_c/subject} could help resolve the Clan's issues",
-            "Is watching the Clans for any signs of discord"
+            "Is trying to mediate Dawnflight dragons' squabbles",
+            "Wishes {PRONOUN/m_c/subject} could help resolve the Flight's issues",
+            "Is watching the Flights for any signs of discord"
         ],
         "main_status_constraint": [
             "mediator",
@@ -500,8 +500,8 @@
     {
     "id": "dead_refugee_thoughts",
     "thoughts": [
-        "Is happy to hear {PRONOUN/m_c/poss} old leader is in the Dark Forest",
-        "Is so happy to reconnect with the cats from {PRONOUN/m_c/poss} old Clan"
+        "Is happy to hear {PRONOUN/m_c/poss} old leader is in Duskfall",
+        "Is so happy to reconnect with the dragons from {PRONOUN/m_c/poss} old Flight"
     ],
         "main_backstory_constraint": [
             "refugee1"
