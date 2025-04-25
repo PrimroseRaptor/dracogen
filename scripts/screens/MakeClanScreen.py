@@ -262,13 +262,13 @@ class MakeClanScreen(Screens):
                 r"[^A-Za-z0-9 ]+", "", self.elements["name_entry"].get_text()
             ).strip()
             if not new_name:
-                self.elements["error"].set_text("Your Clan's name cannot be empty")
+                self.elements["error"].set_text("Your Flight's name cannot be empty")
                 self.elements["error"].show()
                 return
             if new_name.casefold() in [
                 clan.casefold() for clan in game.switches["clan_list"]
             ]:
-                self.elements["error"].set_text("A Clan with that name already exists.")
+                self.elements["error"].set_text("A Flight with that name already exists.")
                 self.elements["error"].show()
                 return
             self.clan_name = new_name
@@ -290,14 +290,14 @@ class MakeClanScreen(Screens):
                     r"[^A-Za-z0-9 ]+", "", self.elements["name_entry"].get_text()
                 ).strip()
                 if not new_name:
-                    self.elements["error"].set_text("Your Clan's name cannot be empty")
+                    self.elements["error"].set_text("Your Flight's name cannot be empty")
                     self.elements["error"].show()
                     return
                 if new_name.casefold() in [
                     clan.casefold() for clan in game.switches["clan_list"]
                 ]:
                     self.elements["error"].set_text(
-                        "A Clan with that name already exists."
+                        "A Flight with that name already exists."
                     )
                     self.elements["error"].show()
                     return
@@ -308,13 +308,13 @@ class MakeClanScreen(Screens):
                 r"[^A-Za-z0-9 ]+", "", self.elements["name_entry"].get_text()
             ).strip()
             if not new_name:
-                self.elements["error"].set_text("Your Clan's name cannot be empty")
+                self.elements["error"].set_text("Your Flight's name cannot be empty")
                 self.elements["error"].show()
                 return
             if new_name.casefold() in [
                 clan.casefold() for clan in game.switches["clan_list"]
             ]:
-                self.elements["error"].set_text("A Clan with that name already exists.")
+                self.elements["error"].set_text("A Flight with that name already exists.")
                 self.elements["error"].show()
                 return
             self.clan_name = new_name
@@ -1091,7 +1091,7 @@ class MakeClanScreen(Screens):
 
         if self.sub_screen == "choose leader":
             self.elements["cat_name"].set_text(
-                str(selected.name) + " --> " + selected.name.prefix + "star"
+                str(selected.name) + " --> " + selected.name.prefix + "myth"
             )
         else:
             self.elements["cat_name"].set_text(str(selected.name))
