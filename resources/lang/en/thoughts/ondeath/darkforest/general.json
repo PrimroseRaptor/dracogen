@@ -3,15 +3,15 @@
         "id": "general_death_dark_forest_thoughts",
         "thoughts": [
             "Is startled to find {PRONOUN/m_c/self} wading in the muck of a shadowed forest",
-            "Is watching {PRONOUN/m_c/poss} own vigil", 
-            "Wants to comfort a Clanmate who is grieving over {PRONOUN/m_c/object}"
+            "Is watching {PRONOUN/m_c/poss} own witholding", 
+            "Wants to comfort a Flightmate who is grieving over {PRONOUN/m_c/object}"
         ]
     },
     {
         "id": "star_death_dark_forest",
         "thoughts": [
-            "Is shocked to find {PRONOUN/m_c/self} here and not StarClan",
-            "Just can't believe {PRONOUN/m_c/subject} ended up in the Dark Forest. Was StarClan not watching over c_n?"
+            "Is shocked to find {PRONOUN/m_c/self} here and not the Dawnflight",
+            "Just can't believe {PRONOUN/m_c/subject} ended up in Duskfall. Was the Dawnflight not watching over c_n?"
         ],
         "main_skill_constraint": [
             "STAR,1"
