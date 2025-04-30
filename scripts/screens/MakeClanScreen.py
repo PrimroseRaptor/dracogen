@@ -1447,7 +1447,7 @@ class MakeClanScreen(Screens):
         )
         self.elements["name_entry"].set_text_length_limit(11)
         self.elements["clan"] = pygame_gui.elements.UITextBox(
-            "-Clan",
+            "-Flight",
             ui_scale(pygame.Rect((375, 600), (100, 25))),
             object_id="#text_box_30_horizcenter_light",
             manager=MANAGER,
