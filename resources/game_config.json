@@ -425,8 +425,8 @@
 		"always_halloween": false
 	},
 	"theme": {
-		"dark_mode_background": [57, 50, 36],
-		"light_mode_background": [206, 194, 168],
+		"dark_mode_background": [49, 68, 41],
+		"light_mode_background": [201, 218, 163],
 		"fullscreen_background": {
 			"light": {
 				"vignette_alpha": 10,
@@ -437,7 +437,7 @@
 				"vignette_alpha": 50,
 				"fade_color": [100, 100, 100],
 				"dropshadow_alpha": 100,
-				"mainmenu_tint": [239, 229, 206]
+				"mainmenu_tint": [243, 239, 228]
 			}
 		},
 		"dark_mode_clan_symbols": [239, 229, 206],
