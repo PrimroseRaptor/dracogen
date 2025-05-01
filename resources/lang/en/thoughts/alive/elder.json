@@ -1079,8 +1079,8 @@
     {
         "id": "elder_to_alive_apprentice",
         "thoughts": [
-            "Is requesting an apprentice's help with {PRONOUN/m_c/poss} wyrmticks",
-            "Is asking apprentices to help check {PRONOUN/m_c/object} for wyrmticks"
+            "Is requesting an fledgeling's help with {PRONOUN/m_c/poss} wyrmticks",
+            "Is asking fledgeling to help check {PRONOUN/m_c/object} for wyrmticks"
         ],
         "main_age_constraint": [
             "senior"
