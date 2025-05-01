@@ -4,7 +4,7 @@
         "thoughts": [
             "Is assigning dragons to a border patrol",
             "Is assigning dragons to a hunting patrol",
-            "Is wondering what it would be like to be a mythic",
+            "Is wondering what it would be like to be a leader",
             "Is stressed about organizing patrols",
             "Wonders who will give {PRONOUN/m_c/object} {PRONOUN/m_c/poss} eternal flames",
             "Feels overworked",
@@ -17,8 +17,8 @@
     {
         "id": "deputy_alive_leader",
         "thoughts": [
-            "Is doing {PRONOUN/m_c/poss} best to honor {PRONOUN/m_c/poss} Flight and {PRONOUN/m_c/poss} mythic",
-            "Must speak with the mythic soon about something {PRONOUN/m_c/subject} found while out on patrol"
+            "Is doing {PRONOUN/m_c/poss} best to honor {PRONOUN/m_c/poss} Flight and {PRONOUN/m_c/poss} leader",
+            "Must speak with the leader soon about something {PRONOUN/m_c/subject} found while out on patrol"
         ],
         "random_status_constraint": [
             "leader"
@@ -53,7 +53,7 @@
     {
       "id": "ambitious_teacher_deputy_to_leader",
         "thoughts": [
-            "Is planning a new training curriculum to impress the mythic"
+            "Is planning a new training curriculum to impress the leader"
         ],
         "random_status_constraint": [
             "leader"
@@ -82,8 +82,8 @@
     {
       "id": "bloodthirsty_deputy_to_leader",
         "thoughts": [
-            "Thinks about killing the mythic and staging it as an accident",
-            "Encourages the mythic to start a war"
+            "Thinks about killing the leader and staging it as an accident",
+            "Encourages the leader to start a war"
         ],
         "main_trait_constraint": [
             "bloodthirsty"
@@ -109,7 +109,7 @@
     {  
         "id":"insecure_deputy",
         "thoughts": [
-            "Hopes {PRONOUN/m_c/subject}'ll make a decent mythic someday",
+            "Hopes {PRONOUN/m_c/subject}'ll make a decent leader someday",
             "Wonders how {PRONOUN/m_c/subject} became secondsight in the first place",
             "Feels a pang of self-doubt when a patrol returns late",
             "Questions whether {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} respected or just tolerated by the Flight",
@@ -122,7 +122,7 @@
     {
       "id": "insecure_deputy_to_leader",
         "thoughts": [
-            "Keeps confirming with the mythic that the patrols {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} organizing sound right"
+            "Keeps confirming with the leader that the patrols {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} organizing sound right"
         ],
         "main_trait_constraint":[
             "insecure"
@@ -180,8 +180,8 @@
     {
       "id": "rebellious_deputy_to_leader",
         "thoughts": [
-            "Feels an urge to challenge the mythic's decision for the betterment of the Flight",
-            "Decides to change patrol routes on {PRONOUN/m_c/poss} own, hoping the mythic will see the benefits"
+            "Feels an urge to challenge the leader's decision for the betterment of the Flight",
+            "Decides to change patrol routes on {PRONOUN/m_c/poss} own, hoping the ldeader will see the benefits"
         ],
         "main_trait_constraint": [
             "rebellious"
@@ -306,7 +306,7 @@
     {
       "id": "story_deputy_to_apprentice",
         "thoughts": [
-            "Is sharing tales of the Flight's legacy with wide-eyed fledgelings"
+            "Is sharing tales of the Flight's legacy with wide-eyed fledglings"
         ],
         "main_skill_constraint": [
             "STORY,1"
@@ -331,8 +331,8 @@
     {
       "id": "teacher_deputy_to_apprentice",
         "thoughts": [
-            "Feels satisfaction watching a fledgeling master a lesson",
-            "Guides a fledgeling through {PRONOUN/m_c/poss} hunting assessment"
+            "Feels satisfaction watching a fledgling master a lesson",
+            "Guides a fledgling through {PRONOUN/m_c/poss} hunting assessment"
         ],
         "main_skill_constraint": [
             "TEACHER,1"

@@ -61,8 +61,8 @@
         "id": "adventurous_elder_to_apprentices",
         "thoughts": [
             "Tells a group of awe-struck apprentices all the exciting adventures {PRONOUN/m_c/subject} had outside Flight territory",
-            "Reminds a fledgeling that there is so, so much more than life within the borders",
-            "Informs a fledgeling of all the best landmarks outside c_n territory"
+            "Reminds a fledgling that there is so, so much more than life within the borders",
+            "Informs a fledgling of all the best landmarks outside c_n territory"
         ],
         "main_age_constraint": [
             "senior adult",
@@ -78,7 +78,7 @@
     {
         "id": "ambitious_elder",
         "thoughts": [
-            "Wonders if ancients can still become the mythic",
+            "Wonders if ancients can still become the leader",
             "Thinks ancients should be allowed to patrol",
             "Feels content with having reached such a highly-respected role"
         ],
@@ -93,7 +93,7 @@
     {
         "id": "ambitious_elder_to_leader",
         "thoughts": [
-            "Is eager to give advice to the mythic"
+            "Is eager to give advice to the leader"
         ],
         "main_age_constraint": [
             "senior adult",
@@ -141,7 +141,7 @@
     {
         "id": "arrogant_elder_to_leader",
         "thoughts": [
-            "Gives unsolicited advice to the mythic"
+            "Gives unsolicited advice to the leader"
         ],
         "main_age_constraint": [
             "senior adult",
@@ -172,9 +172,9 @@
     {
         "id": "bloodthirsty_elder_to_apprentice",
         "thoughts": [
-            "Snarls at a fledgeling when they bring thorns into the den",
-            "Snaps at a fledgeling to hurry up with cleaning the ancient's den",
-            "Lectures a fledgeling on not holding back in battle"
+            "Snarls at a fledgling when they bring thorns into the den",
+            "Snaps at a fledgling to hurry up with cleaning the ancient's den",
+            "Lectures a fledgling on not holding back in battle"
         ],
         "main_age_constraint": [
             "senior adult",
@@ -233,8 +233,8 @@
     {
         "id": "careful_elder_to_apprentice",
         "thoughts": [
-            "Asks a fledgeling to triple-check there's no thorns in {PRONOUN/m_c/poss} bedding",
-            "Is telling cautionary tales to fledgelings"
+            "Asks a fledgling to triple-check there's no thorns in {PRONOUN/m_c/poss} bedding",
+            "Is telling cautionary tales to fledglings"
         ],
         "main_age_constraint": [
             "senior adult",
@@ -307,7 +307,7 @@
     {
         "id": "compassionate_elder_to_apprentice",
         "thoughts": [
-            "Helps a fledgeling to clean out the ancient's den"
+            "Helps a fledgling to clean out the ancient's den"
         ],
         "main_age_constraint": [
             "senior adult",
@@ -368,8 +368,8 @@
     {
         "id": "cunning_elder_to_apprentices",
         "thoughts": [
-            "Convinces a fledgeling that they get given an easier skyclaw assessment if they help the elders",
-            "Persuades a fledgeling to clean out the ancient's den"
+            "Convinces a fledgling that they get given an easier skyclaw assessment if they help the elders",
+            "Persuades a fledgling to clean out the ancient's den"
         ],
         "main_age_constraint": [
             "senior adult",
@@ -478,7 +478,7 @@
     {
         "id": "rebellious_elder_to_leader",
         "thoughts": [
-            "Is giving even more unsolicited advice to the mythic",
+            "Is giving even more unsolicited advice to the leader",
             "Is <i>always</i> around to offer some advice to r_c"
         ],
         "main_age_constraint": [
@@ -540,8 +540,8 @@
     {
         "id": "insecure_elder_to_apprentices",
         "thoughts": [
-            "Hopes the fledgelings don't find {PRONOUN/m_c/object} too boring",
-            "Feels guilty watching a fledgeling clean {PRONOUN/m_c/poss} bedding"
+            "Hopes the fledglings don't find {PRONOUN/m_c/object} too boring",
+            "Feels guilty watching a fledgling clean {PRONOUN/m_c/poss} bedding"
         ],
         "main_age_constraint": [
             "senior adult",
@@ -587,7 +587,7 @@
     {
         "id": "loving_elder_to_apprentice",
         "thoughts": [
-            "Purrs reassuringly as a fledgeling whines about their day"
+            "Purrs reassuringly as a fledgling whines about their day"
         ],
         "main_age_constraint": [
             "senior adult",
@@ -848,7 +848,7 @@
     {
         "id": "thoughtful_elder_to_leader",
         "thoughts": [
-            "Is planning how best to present an issue to the mythic"
+            "Is planning how best to present an issue to the leader"
         ],
         "main_age_constraint": [
             "senior adult",
@@ -964,8 +964,8 @@
     {
         "id": "camp_elder_to_apprentice",
         "thoughts": [
-            "Teaches a fledgeling how to build the comfiest nests",
-            "Watches a fledgeling try and construct {PRONOUN/m_c/poss} nest, knowing {PRONOUN/m_c/subject} could do a far better job"
+            "Teaches a fledgling how to build the comfiest nests",
+            "Watches a fledgling try and construct {PRONOUN/m_c/poss} nest, knowing {PRONOUN/m_c/subject} could do a far better job"
         ],
         "main_age_constraint": [
             "senior adult",
@@ -982,7 +982,7 @@
         "id": "kitsitter_elder",
         "thoughts": [
             "Spends the day collecting trinkets around camp for hatchlings to play with",
-            "Helps to reinforce the nursery"
+            "Helps to reinforce the hatchery"
         ],
         "main_age_constraint": [
             "senior adult",
@@ -1079,8 +1079,8 @@
     {
         "id": "elder_to_alive_apprentice",
         "thoughts": [
-            "Is requesting an fledgeling's help with {PRONOUN/m_c/poss} wyrmticks",
-            "Is asking fledgeling to help check {PRONOUN/m_c/object} for wyrmticks"
+            "Is requesting an fledgling's help with {PRONOUN/m_c/poss} wyrmticks",
+            "Is asking fledgling to help check {PRONOUN/m_c/object} for wyrmticks"
         ],
         "main_age_constraint": [
             "senior"
@@ -1354,8 +1354,8 @@
     {
         "id": "blind_adolescent_retired_to_alive_apprentice",
         "thoughts": [
-            "Sadly listens as the fledgelings share stories of their feats",
-            "Joins in as the fledgelings share stories of their feats",
+            "Sadly listens as the fledglings share stories of their feats",
+            "Joins in as the fledglings share stories of their feats",
             "Asks r_c to describe what {PRONOUN/r_c/subject} saw on patrol today"
         ],
         "perm_conditions": {
@@ -1405,7 +1405,7 @@
     {
         "id": "one_bad_eye_adolescent_retired_to_alive_gen",
         "thoughts": [
-            "Brags to the Flight that {PRONOUN/m_c/subject} would've been the best mythic"
+            "Brags to the Flight that {PRONOUN/m_c/subject} would've been the leader"
         ],
         "perm_conditions": {
             "m_c": [
@@ -1467,7 +1467,7 @@
     {
         "id": "wasting_disease_adolescent_retired_to_alive_apprentice",
         "thoughts": [
-            "Enviously watches the fledgelings talk about training"
+            "Enviously watches the fledglings talk about training"
         ],
         "perm_conditions": {
             "m_c": [
@@ -1585,7 +1585,7 @@
     {
         "id": "lost_leg/tail_gen_retired_to_alive_app",
         "thoughts": [
-            "Explains what 'phantom pain' is to a curious fledgeling"
+            "Explains what 'phantom pain' is to a curious fledgling"
         ],
         "perm_conditions": {
             "m_c": [
@@ -1788,8 +1788,8 @@
     {
         "id": "missing_tail_gen_retired_to_alive_app",
         "thoughts": [
-            "Happily trains the fledgelings on new balancing techniques",
-            "Is showing the fledgelings how to get into the hunting crouch without a tail"
+            "Happily trains the fledglings on new balancing techniques",
+            "Is showing the fledglings how to get into the hunting crouch without a tail"
         ],
         "perm_conditions": {
             "m_c": [

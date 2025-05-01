@@ -144,16 +144,16 @@
     {
         "id": "warrior_apprentice_to_alive_kits",
         "thoughts": [
-            "Leaves fresh-kill outside the nursery for the hatchlings",
+            "Leaves fresh-kill outside the hatchery for the hatchlings",
             "Is showing r_c the proper way to do a hunter's crouch",
             "Tries not to giggle as r_c fails at a hunting crouch",
             "Looks at r_c and wonders if {PRONOUN/m_c/subject} {VERB/m_c/were/was} ever that small",
             "Brought back some feathers for the hatchlings to play with",
             "Is showing off {PRONOUN/m_c/poss} new battle moves to the hatchlings",
             "Wonders if r_c can be {PRONOUN/m_c/poss} fledgling someday",
-            "Wants to be a skyclaw before r_c is a fledgeling",
-            "Hopes r_c will be a fledgeling with {PRONOUN/m_c/object}",
-            "Is letting r_c see the fledgelings' den",
+            "Wants to be a skyclaw before r_c is a fledgling",
+            "Hopes r_c will be a fledgling with {PRONOUN/m_c/object}",
+            "Is letting r_c see the fledglings' den",
             "Takes time to play with r_c in between training sessions",
             "Tries to teach r_c something new... but {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} not listening"
         ],
@@ -170,7 +170,7 @@
             "Begs to be made a skyclaw early",
             "Wants to go on both a border and hunting patrol",
             "Is asking for extra, extra training",
-            "Wants to be made a skyclaw so {PRONOUN/m_c/subject} can hurry up and get {PRONOUN/m_c/poss} own fledgeling",
+            "Wants to be made a skyclaw so {PRONOUN/m_c/subject} can hurry up and get {PRONOUN/m_c/poss} own fledgling",
             "Is staying out late to hunt",
             "Doesn't like to take breaks",
             "Offers to go on every patrol today",
@@ -187,10 +187,10 @@
     {
         "id": "ambitious_warrior_apprentice_to_other_apps",
         "thoughts": [
-            "Has been catching the most prey out of all the fledgelings",
-            "Is confident that {PRONOUN/m_c/subject} could beat the other fledgelings",
-            "Wants to be the most promising fledgeling",
-            "Is trying to outshine the other fledgelings",
+            "Has been catching the most prey out of all the fledglings",
+            "Is confident that {PRONOUN/m_c/subject} could beat the other fledglings",
+            "Wants to be the most promising fledgling",
+            "Is trying to outshine the other fledglings",
             "Wants to be made a skyclaw before r_c"
         ],
         "random_status_constraint": [
@@ -292,7 +292,7 @@
     {
         "id": "childish_warrior_apprentice",
         "thoughts": [
-            "Wonders if {PRONOUN/m_c/subject} could still fit in the nursery",
+            "Wonders if {PRONOUN/m_c/subject} could still fit in the hatchery",
             "Turns {PRONOUN/m_c/poss} sparring practice into a tickle fight",
             "Asks if {PRONOUN/m_c/subject} can chase pretty fairies instead of prey",
             "Isn't paying attention to the lesson... again",
@@ -339,7 +339,7 @@
             "Is planning on bringing a lot of fresh-kill back from patrol",
             "Wants to lead the next dawn patrol",
             "Perfects a new fighting stance during today's training session",
-            "Is sure that r_c thinks {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} the best fledgeling",
+            "Is sure that r_c thinks {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} the best fledgling",
             "Is a very quick learner",
             "Is sure {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} doing a good job today",
             "Knows {PRONOUN/m_c/subject} will get picked first for today's hunting patrol"
@@ -396,7 +396,7 @@
             "Is wondering if {PRONOUN/m_c/subject} {VERB/m_c/are/is} good enough to be a skyclaw...",
             "Is reluctant to spar with {PRONOUN/m_c/poss} mentor today",
             "Hopes {PRONOUN/m_c/subject} {VERB/m_c/are/is} not assigned to a border patrol",
-            "Is worried about being an fledgeling forever",
+            "Is worried about being an fledgling forever",
             "Is fighting back tears after missing a catch",
             "Is afraid to lose in a real fight",
             "Is avoiding everyone today",
@@ -418,10 +418,10 @@
             "Jumps at {PRONOUN/m_c/poss} own shadow",
             "Is nervous about something",
             "Stumbled over {PRONOUN/m_c/poss} words when talking with r_c",
-            "Wishes that one day {PRONOUN/m_c/subject}'ll be brave enough to be the secondsight, or even the Flight's mythic...",
+            "Wishes that one day {PRONOUN/m_c/subject}'ll be brave enough to be the secondsight, or even the Flight's leader...",
             "Is scared around water after a nightmare",
             "Is nervous about {PRONOUN/m_c/poss} upcoming assessment",
-            "Wishes to be like the skyclaws in the stories told to {PRONOUN/m_c/object} in the nursery"
+            "Wishes to be like the skyclaws in the stories told to {PRONOUN/m_c/object} in the hatchery"
         ],
         "main_trait_constraint": [
             "nervous"
@@ -627,7 +627,7 @@
             "Admits to r_c that {PRONOUN/m_c/subject} {VERB/m_c/feel/feels} like a failure, and {PRONOUN/m_c/poss} mentor reassures {PRONOUN/m_c/subject}",
             "Feels hurt when r_c doesn't notice {PRONOUN/m_c/object} struggling",
             "Wonders if r_c really likes {PRONOUN/m_c/object}, or just pretends to",
-            "Doesn't feel worthy of being r_c's fledgeling"
+            "Doesn't feel worthy of being r_c's fledgling"
         ],
         "main_trait_constraint": [
             "insecure",
