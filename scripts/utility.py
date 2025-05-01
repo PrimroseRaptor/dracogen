@@ -789,29 +789,29 @@ def create_new_cat(
         if status == "newborn":
             age = 0
         elif litter or kit:
-            age = randint(1, 5)
+            age = randint(1, 59)
         elif status in ("apprentice", "medicine cat apprentice", "mediator apprentice"):
-            age = randint(6, 11)
+            age = randint(60, 110)
         elif status == "warrior":
-            age = randint(23, 120)
+            age = randint(230, 1200)
         elif status == "medicine cat":
-            age = randint(23, 140)
+            age = randint(230, 1400)
         elif status == "elder":
-            age = randint(120, 130)
+            age = randint(1200, 1300)
         else:
-            age = randint(6, 120)
+            age = randint(60, 1200)
 
     # setting status
     if not status:
         if age == 0:
             status = "newborn"
-        elif age < 6:
+        elif age < 60:
             status = "kitten"
-        elif 6 <= age <= 11:
+        elif 6 <= age <= 110:
             status = "apprentice"
-        elif age >= 12:
-            status = "warrior"
         elif age >= 120:
+            status = "warrior"
+        elif age >= 1200:
             status = "elder"
 
     # cat creation and naming time
