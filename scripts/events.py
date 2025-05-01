@@ -102,7 +102,7 @@ class Events:
             game.switches["no_able_left"] = False
 
         # age up the clan, set current season
-        game.clan.age += 1
+        game.clan.age += 10
         get_current_season()
         Pregnancy_Events.handle_pregnancy_age(game.clan)
         self.check_war()
