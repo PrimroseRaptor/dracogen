@@ -241,7 +241,7 @@ class Cat:
             self.age = choice(list(CatAgeEnum))
         elif moons is not None:
             self.moons = moons
-            if moons > 300:
+            if moons > 3000:
                 # Out of range, always elder
                 self.age = CatAgeEnum.SENIOR
             elif moons == 0:

@@ -1243,10 +1243,10 @@ class Events:
                 not cat.no_retire
                 and cat.status in ["warrior", "deputy"]
                 and len(cat.apprentice) < 1
-                and cat.moons > 114
+                and cat.moons > 1140
             ):
                 # There is some variation in the age.
-                if cat.moons > 140 or not int(
+                if cat.moons > 1400 or not int(
                     random.random() * (-0.7 * cat.moons + 100)
                 ):
                     if cat.status == "deputy":
@@ -1273,7 +1273,7 @@ class Events:
                     very_old_med = [
                         c
                         for c in med_cat_list
-                        if c.moons >= 150 and c.status == "medicine cat"
+                        if c.moons >= 1500 and c.status == "medicine cat"
                     ]
 
                     # check if the Clan has sufficient med cats

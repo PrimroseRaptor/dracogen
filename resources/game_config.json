@@ -302,11 +302,11 @@
 		"base_app_timeskip_ex": [[3, 12],[5, 6]],
 		"base_med_app_timeskip_ex": [[2, 7],[2, 3]],
 		"max_apprentice_age": {
-			"medicine cat apprentice": 30,
-			"apprentice": 25,
-			"mediator apprentice": 25
+			"medicine cat apprentice": 150,
+			"apprentice": 140,
+			"mediator apprentice": 140
 		},
-		"min_graduating_age": 10
+		"min_graduating_age": 80
 	},
 	"outside_ex":{
 		"base_adolescent_timeskip_ex":[[2, 10],[4, 5]],

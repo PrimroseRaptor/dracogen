@@ -1,19 +1,19 @@
 {
     "en": {
-        "heading": "Timeskip to progress your Clan's life.",
+        "heading": "Timeskip to progress your Flight's life.",
         "season": "Current season: %{season}",
         "age": {
-            "one": "Clan age: %{count} moon",
-            "many": "Clan age: %{count} moons"
+            "one": "Clan age: %{count} suntrail",
+            "many": "Clan age: %{count} suntrails"
         },
-        "timeskip_button": "Timeskip One Moon",
+        "timeskip_button": "Timeskip ten suntrails",
         "all events": "all events",
         "ceremonies": "ceremonies",
         "births & deaths": "births & deaths",
         "relationships": "relationships",
         "health": "health",
-        "other clans": "other clans",
+        "other clans": "other flights",
         "miscellaneous": "miscellaneous",
-        "no_events": "Nothing interesting happened this moon."
+        "no_events": "Nothing interesting happened this decade."
     }
 }
