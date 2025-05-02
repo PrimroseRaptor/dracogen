@@ -377,7 +377,7 @@ class Cat:
         :param moons: Age in moons
         :return: None
         """
-        if moons > 300:
+        if moons > 3000:
             # Out of range, always elder
             self.age = CatAgeEnum.SENIOR
         elif moons == 0:
@@ -3504,10 +3504,10 @@ def create_cat(status, moons=None, biome=None):
 
     if moons is not None:
         new_cat.moons = moons
-    elif new_cat.moons >= 160:
-        new_cat.moons = randint(120, 155)
+    elif new_cat.moons >= 1600:
+        new_cat.moons = randint(1200, 1550)
     elif new_cat.moons == 0:
-        new_cat.moons = randint(1, 5)
+        new_cat.moons = randint(10, 50)
 
     not_allowed_scars = [
         "NOPAW",
