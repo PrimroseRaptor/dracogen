@@ -1090,7 +1090,7 @@ class Events:
             return
 
         # Prevent wars from starting super early in the game.
-        if game.clan.age <= 4:
+        if game.clan.age <= 40:
             return
 
         # check that the save dict has all the things we need

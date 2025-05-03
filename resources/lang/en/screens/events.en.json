@@ -3,8 +3,8 @@
         "heading": "Timeskip to progress your Flight's life.",
         "season": "Current season: %{season}",
         "age": {
-            "one": "Clan age: %{count} suntrail",
-            "many": "Clan age: %{count} suntrails"
+            "one": "Flight age: %{count} suntrail",
+            "many": "Flight age: %{count} suntrails"
         },
         "timeskip_button": "Timeskip ten suntrails",
         "all events": "all events",
