@@ -2,22 +2,22 @@
     {
         "id": "med_cat_app_gen",
         "thoughts": [
-            "Is wondering if {PRONOUN/m_c/subject} {VERB/m_c/are/is} good enough to become a medicine cat",
+            "Is wondering if {PRONOUN/m_c/subject} {VERB/m_c/are/is} good enough to become a lifeblood",
             "Helps apply a poultice to a small wound",
-            "Is enjoying learning all the herbs a medicine cat needs!",
+            "Is enjoying learning all the herbs a lifeblood needs!",
             "Is memorizing the names of all the herbs",
             "Is practicing applying cobwebs to wounds",
             "Is sorting out all the old herbs from the den",
-            "Makes sure the nests in the medicine cat den are as comfortable as possible",
+            "Makes sure the nests in the lifeblood den are as comfortable as possible",
             "Is ready to take care of any patients",
             "Is a bit overwhelmed at everything there is to learn about healing",
-            "Is learning the best way to remove a thorn from a paw pad",
+            "Is learning the best way to remove a thorn from a claw pad",
             "Is learning how to treat a burn",
-            "Is learning how to tell the difference between whitecough and greencough from a safe distance",
+            "Is learning how to tell the difference between cindercough and embercough from a safe distance",
             "Is taking {PRONOUN/m_c/poss} training very seriously",
             "Is learning the early signs of infection",
-            "Is memorizing all the places catmint grows",
-            "Wonders if StarClan will send {PRONOUN/m_c/object} a practice sign before a real one",
+            "Is memorizing all the places glowmint grows",
+            "Wonders if the Dawnflight will send {PRONOUN/m_c/object} a practice sign before a real one",
             "Is neatly stacking bundles of herbs after drying"
         ]
     },
@@ -25,13 +25,13 @@
         "id": "med_cat_alive_apprentice",
         "thoughts": [
             "Wonders if r_c would have been a better healer",
-            "Wishes the other apprentices could understand how {PRONOUN/m_c/subject} feel",
-            "Wishes {PRONOUN/m_c/subject} understood the apprentice's inside jokes",
+            "Wishes the other fleglings could understand how {PRONOUN/m_c/subject} feel",
+            "Wishes {PRONOUN/m_c/subject} understood the fledgling's inside jokes",
             "Hopes r_c will come with {PRONOUN/m_c/object} to help gather herbs",
             "Is assuring r_c that everything is okay",
             "Is wondering if StarClan is visiting r_c's dreams",
-            "Is realizing how lonely it can be to be a medicine cat apprentice",
-            "Is watching other apprentices train"
+            "Is realizing how lonely it can be to be a lifeblood apprentice",
+            "Is watching other fledglings train"
         ],
         "random_status_constraint": [
             "apprentice",
@@ -45,11 +45,11 @@
     {
         "id": "medicine_cat_apprentice_alive_elder",
         "thoughts": [
-            "Was asked to gather fresh moss for the elders' bedding",
-            "Plans to visit the elders soon",
-            "Is checking in on the elders' den",
-            "Plans to help the elders with their ticks",
-            "Is helping to repair the elders' den",
+            "Was asked to gather fresh moss for the ancients' bedding",
+            "Plans to visit the ancients soon",
+            "Is checking in on the ancients' den",
+            "Plans to help the ancients with their wyrmticks",
+            "Is helping to repair the ancients' den",
             "Is making sure r_c is breathing okay",
             "Is hoping to make r_c feel younger today",
             "Is learning how to relieve r_c's joint pain",
@@ -69,7 +69,7 @@
             "Is watching r_c work",
             "Asks r_c about the best way to help with bee stings",
             "Is asking r_c for guidance about a recent dream",
-            "Asks r_c how to tell something is a sign from StarClan",
+            "Asks r_c how to tell something is a sign from the Dawnflight",
             "Hopes to learn from r_c's expertise",
             "Asks r_c how to tell the difference between a sprain and a dislocated joint"
         ],
@@ -83,11 +83,11 @@
     {
         "id": "insecure_medicine_cat_apprentice",
         "thoughts": [
-            "Is wondering if {PRONOUN/m_c/subject} {VERB/m_c/are/is} a good enough medicine cat apprentice",
+            "Is wondering if {PRONOUN/m_c/subject} {VERB/m_c/are/is} a good enough lifeblood fledgling",
             "Is always worrying about {PRONOUN/m_c/poss} patients",
-            "Is worried about a greencough outbreak",
+            "Is worried about a cindercough outbreak",
             "Is terrified of misdiagnosing something serious",
-            "Isn't sure if {PRONOUN/m_c/subject} can handle the stress of caring for the Clan",
+            "Isn't sure if {PRONOUN/m_c/subject} can handle the stress of caring for the Flight",
             "Is holding back tears after using the wrong herbs",
             "Is upset after {PRONOUN/m_c/subject} froze at the sight of blood from a minor wound"
         ],
@@ -99,13 +99,13 @@
     {
         "id": "meanie_medicine_cat_apprentice",
         "thoughts": [
-            "Is hoping {PRONOUN/m_c/poss} medicine cat name will end in -claw",
+            "Is hoping {PRONOUN/m_c/poss} lifeblood name will end in -leaf",
             "Wants to learn some battle moves... just in case",
-            "Is keeping something hidden in the back of medicine cat den",
-            "Is wondering if StarClan uses greencough to weed out the weaker members of the Clan",
-            "Doesn't understand the point of keeping sickly old elders healthy with precious herbs",
-            "Is seen secretly leaving camp to wash {PRONOUN/m_c/poss} paws in a creek",
-            "Is studying the effects of deathberries"
+            "Is keeping something hidden in the back of lifeblood den",
+            "Is wondering if the Dawnflight uses cindercough to weed out the weaker members of the Flight",
+            "Doesn't understand the point of keeping sickly old anciants healthy with precious herbs",
+            "Is seen secretly leaving camp to wash {PRONOUN/m_c/poss} claws in a creek",
+            "Is studying the effects of nightkiss"
         ],
         "main_trait_constraint": [
             "bloodthirsty",
@@ -117,11 +117,11 @@
     {
         "id": "nice_medicine_cat_apprentice",
         "thoughts": [
-            "Is vowing to help any cat in need",
-            "Is looking to StarClan for guidance in a difficult decision",
+            "Is vowing to help any dragon in need",
+            "Is looking to the Dawnflight for guidance in a difficult decision",
             "Is thinking about how to keep the Clan safe and healthy",
             "Is dreaming about taking care of a patient",
-            "Is arguing that rogues and loners deserve help too"
+            "Is arguing that strayscales and wanderers deserve help too"
         ],
         "main_trait_constraint": [
             "thoughtful",
@@ -135,10 +135,10 @@
         "id": "nice_medicine_cat_apprentice_to_meanie_med",
         "thoughts": [
             "Is unsure of r_c's treatment methods",
-            "Wonders why r_c decided to be a medicine cat",
+            "Wonders why r_c decided to be a lifeblood",
             "Is worried r_c likes to hurt patients",
-            "Is skeptical of StarClan's choice of r_c as a medicine cat",
-            "Is startled to find r_c has a stockpile of deathberries"
+            "Is skeptical of the Dawnflight's choice of r_c as a lifeblood",
+            "Is startled to find r_c has a stockpile of nightkiss"
         ],
         "main_trait_constraint": [
             "thoughtful",
@@ -165,12 +165,12 @@
         "thoughts": [
             "Is plotting the downfall of c_n with r_c",
             "Is meeting secretly with r_c to discuss a new 'treatment' method",
-            "Is helping r_c secretly gather deathberries",
-            "Is delighted to find r_c feels the same way about weak cats",
-            "Is glad r_c is against sharing life-saving herbs with enemy Clans",
+            "Is helping r_c secretly gather nightkiss",
+            "Is delighted to find r_c feels the same way about weak dragons",
+            "Is glad r_c is against sharing life-saving herbs with enemy Flights",
             "Is standing with r_c, both glaring over their newest vict-, erm, 'patients'",
             "Is learning the best way to make a death look like an accident from r_c",
-            "Is discussing attacking other medicine cats at the next half-moon with r_c"
+            "Is discussing attacking other lifebloods at the next half-suntrail with r_c"
         ],
         "random_trait_constraint": [
             "bloodthirsty",
@@ -196,7 +196,7 @@
         "thoughts": [
             "Thinks r_c is far too soft with {PRONOUN/r_c/poss} patients",
 	    "Wishes r_c wasn't so soft",
-	    "Has to promise r_c {PRONOUN/m_c/subject} won't gather deathberries again"
+	    "Has to promise r_c {PRONOUN/m_c/subject} won't gather nightkiss again"
         ],
         "random_trait_constraint": [
             "thoughtful",
@@ -222,8 +222,8 @@
         "id": "med_cat_app_to_dead_SC_kit",
         "thoughts": [
             "Is wondering if r_c would have bothered {PRONOUN/m_c/object} while {PRONOUN/m_c/subject} {VERB/m_c/were/was} sorting herbs",
-            "Wonders if {PRONOUN/m_c/subject} would have had to treat r_c for kittencough",
-            "Wonders if r_c would have wanted to be a medicine cat too"
+            "Wonders if {PRONOUN/m_c/subject} would have had to treat r_c for eggletcough",
+            "Wonders if r_c would have wanted to be a lifeblood too"
         ],
         "random_status_constraint": [
             "kitten"
@@ -237,24 +237,24 @@
         "thoughts": [
             "Wonders if {PRONOUN/m_c/subject} would have gotten the chance to do r_c's first check-up",
             "Can still smell the bitter herbs that {PRONOUN/m_c/subject} desperately fetched to try and save r_c's life",
-            "Thought {PRONOUN/m_c/subject} heard r_c's mewls, but was wrong",
+            "Thought {PRONOUN/m_c/subject} heard r_c's thrumm, but was wrong",
             "Contemplates how short r_c's life was and how much {PRONOUN/r_c/subject} {VERB/m_c/are/is} missing",
-            "Is questioning if r_c would grow up in StarClan or stay a newborn",
-            "Prays that r_c is healthy and receives the strength {PRONOUN/r_c/subject} need to grow in StarClan",
+            "Is questioning if r_c would grow up in the Dawnclan or stay an egglet",
+            "Prays that r_c is healthy and receives the strength {PRONOUN/r_c/subject} need to grow in the Dawnflight",
             "Is finally accepting {PRONOUN/m_c/subject} did all {PRONOUN/m_c/subject} could to save r_c",
             "Is pondering which role r_c would have been",
-            "Ponders how StarClan would deal with r_c",
+            "Ponders how the Dawnflight would deal with r_c",
             "Thought {PRONOUN/m_c/subject} encountered r_c while scavenging for herbs, but it was a trick of {PRONOUN/m_c/poss} mind",
             "Is listening to the reason behind r_c's name with a fond smile",
-            "Wonders if newborn kits grow up to be adults or stay young forever in StarClan",
-            "Is asking StarClan why they take newborns to Silverpelt",
-            "Prays that all the newborn kits in StarClan get enough food to stay strong",
-            "Is contemplating StarClan and why they would allow newborns to pass",
+            "Wonders if egglets grow up to be adults or stay young forever in the Dawnflight",
+            "Is asking the Dawnflight why they take egglets to Glimmerveil",
+            "Prays that all the egglets in the Dawnflight get enough food to stay strong",
+            "Is contemplating the Dawnflight and why they would allow egglets to pass",
             "Is reflecting on r_c's pelt, and is sad {PRONOUN/m_c/subject} never knew {PRONOUN/r_c/poss} eye color",
-            "Was startled to meet a newborn kit while dreaming and ponders what it meant",
-            "Was spooked when {PRONOUN/m_c/subject} was out collecting herbs and encountered a ghostly newborn, which disappeared when noticed",
-            "Is asking {PRONOUN/m_c/poss} mentor why StarClan allows newborns to join Silverpelt",
-            "Is vowing to never let another newborn join StarClan's ranks"
+            "Was startled to meet an egglet while dreaming and ponders what it meant",
+            "Was spooked when {PRONOUN/m_c/subject} was out collecting herbs and encountered a ghostly egglet, which disappeared when noticed",
+            "Is asking {PRONOUN/m_c/poss} mentor why the Dawnflight allows newborns to join Glimmerveil",
+            "Is vowing to never let another egglet join the Dawnflight's ranks"
         ],
         "random_status_constraint": [
             "newborn"
@@ -267,17 +267,17 @@
         "id": "plain_med_cat_app_to_dead_starclan_newborn",
         "thoughts": [
             "Is wondering if r_c was a part of the stars last night",
-            "Thought {PRONOUN/m_c/subject} heard r_c's mewls, but it was just the wind",
-            "Is questioning who would provide for r_c in StarClan",
-            "Wonders if r_c would have played with the insects in the grass if {PRONOUN/r_c/subject} had time to grow up",
+            "Thought {PRONOUN/m_c/subject} heard r_c's thrumm, but it was just the wind",
+            "Is questioning who would provide for r_c in the Dawnflight",
+            "Wonders if r_c would have played with the fairies in the grass if {PRONOUN/r_c/subject} had time to grow up",
             "Questions if r_c's spirit exists in the tall grass",
             "Thought {PRONOUN/m_c/subject} saw r_c's spirit hanging around the nursery tunnel",
-            "Wonders if r_c gets to venture out of the tunnels in StarClan",
+            "Wonders if r_c gets to venture out of the tunnels in the Dawnflight",
             "Thought {PRONOUN/m_c/subject} saw r_c playing with the roots of the tree, but sadly shakes off the thought",
-            "Was surprised to find r_c's spot in the nursery warm, despite {PRONOUN/r_c/object} being with the stars now",
-            "Is pondering if r_c would stay in tunnels or go out an explore the territory in StarClan",
-            "Wonders if the newborns in StarClan will ever get to play and run across open fields",
-            "Prays to StarClan that the passed newborn kits get to feel the wind across their pelt"
+            "Was surprised to find r_c's spot in the nursery warm, despite {PRONOUN/r_c/object} being with the stars and clouds now",
+            "Is pondering if r_c would stay in tunnels or go out an explore the territory of the Dawnflight",
+            "Wonders if the egglets in the Dawnflight will ever get to play and fly across open fields",
+            "Prays to the Dawnflight that the passed egglets get to feel the wind in their wings"
         ],
         "biome": [
             "plains"

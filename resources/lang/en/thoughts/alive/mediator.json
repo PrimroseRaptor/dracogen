@@ -3,32 +3,32 @@
         "id": "mediator_gen",
         "thoughts": [
             "Is feeling a sense of pride after mediating a difficult argument",
-            "Wishes {PRONOUN/m_c/poss} Clanmates would just talk to each other",
-            "Is upset over a recent negotiation with a rival Clan",
-            "Negotiates an herb trade with another Clan",
-            "Is negotiating with a kittypet to make use of the herbs in their Twoleg garden",
-            "Is dismayed at how quickly {PRONOUN/m_c/poss} Clanmates get into arguments",
+            "Wishes {PRONOUN/m_c/poss} Flightmates would just talk to each other",
+            "Is upset over a recent negotiation with a rival Flight",
+            "Negotiates an herb trade with another Flight",
+            "Is negotiating with a softscale to make use of the herbs in their Softling garden",
+            "Is dismayed at how quickly {PRONOUN/m_c/poss} Flightmates get into arguments",
             "Feels exhausted after mediating so many arguments",
             "Feels pride for {PRONOUN/m_c/poss} work",
             "Is mediating a couple's relationship",
-            "Is mediating a long time friendship between two Clanmates",
+            "Is mediating a long time friendship between two Flightmates",
             "Is feeling frustrated after a failed negotiation",
             "Is feeling exhausted from resolving petty arguments",
-            "Wants to solve a dispute with another Clan",
+            "Wants to solve a dispute with another Flight",
             "Wonders if mediating is meant to be so draining",
-            "Wonders if being a warrior would have been more fun",
-            "Is proud of how well {PRONOUN/m_c/subject} {VERB/m_c/are/is} doing as a mediator",
+            "Wonders if being a skyclaw would have been more fun",
+            "Is proud of how well {PRONOUN/m_c/subject} {VERB/m_c/are/is} doing as a silvertounge",
             "Accidentally made an argument worse",
             "Is proud of getting through a difficult mediation session",
-            "Feels exhausted from {PRONOUN/m_c/poss} Clanmates' bickering",
+            "Feels exhausted from {PRONOUN/m_c/poss} Flightmates' bickering",
             "Is listening to both sides of an argument",
             "Is feeling a bit underappreciated for {PRONOUN/m_c/poss} mediation",
-            "Is wondering if {PRONOUN/m_c/subject} made the right decision in becoming a mediator",
+            "Is wondering if {PRONOUN/m_c/subject} made the right decision in becoming a silvertounge",
             "Is relieved {PRONOUN/m_c/subject} broke up an argument before it started",
-            "Is hoping the Clan can stay peaceful",
-            "Is contemplating teaching the Clan communication skills",
-            "Is mediating a small disagreement between two Clanmates",
-            "Wonders if c_n considers {PRONOUN/m_c/object} to be a good mediator"
+            "Is hoping the Flight can stay peaceful",
+            "Is contemplating teaching the Flight communication skills",
+            "Is mediating a small disagreement between two Flightmates",
+            "Wonders if c_n considers {PRONOUN/m_c/object} to be a good silvertounge"
         ]
     },
     {
@@ -59,8 +59,8 @@
         "id": "mediator_to_alive_leader",
         "thoughts": [
             "Is upset with the leader over a border dispute gone wrong",
-            "Mediated a meeting between senior warriors and the leader over recent Clan decisions",
-            "Thinks r_c should be more prudent regarding Clan relations"
+            "Mediated a meeting between senior skyclaws and the leader over recent Flight decisions",
+            "Thinks r_c should be more prudent regarding Flight relations"
         ],
         "random_status_constraint": [
             "leader"
@@ -72,7 +72,7 @@
     {
         "id": "mediator_to_alive_elder",
         "thoughts": [
-            "Had to fix an argument between the elders... again"
+            "Had to fix an argument between the ancients... again"
         ],
         "random_status_constraint": [
             "elder"
@@ -83,7 +83,8 @@
         "thoughts": [
             "Is wondering if {PRONOUN/m_c/subject} should sabotage a relationship that is going a bit too well",
             "Wishes to break up a sickeningly lovey-dovey couple",
-            "Chuckles to {PRONOUN/m_c/self} after sabotaging another relationship"
+            "Chuckles to {PRONOUN/m_c/self} after sabotaging another relationship",
+            "Encourages skyclaws to fight amongst eachother"
         ],
         "main_trait_constraint": [
             "bloodthirsty"
@@ -92,7 +93,7 @@
     {
         "id": "cold_mediator",
         "thoughts": [
-            "Is judging two Clanmates for their foolish argument",
+            "Is judging two Flightmates for their foolish argument",
             "Wishes to break up a sickeningly lovey-dovey couple",
             "Is sitting back and watching an argument take place"
         ],
@@ -113,8 +114,8 @@
     {
         "id": "fierce_mediator",
         "thoughts": [
-            "Is greatly annoyed by a Clanmate's inability to accept they were in the wrong",
-            "Is fighting the urge to shake some sense into a Clanmate"
+            "Is greatly annoyed by a Flightmate's inability to accept they were in the wrong",
+            "Is fighting the urge to shake some sense into a Flightmate"
         ],
         "main_trait_constraint": [
             "fierce"
@@ -153,7 +154,7 @@
     {
         "id": "righteous_mediator",
         "thoughts": [
-            "Is greatly annoyed by a Clanmate's inability to accept they were in the wrong"
+            "Is greatly annoyed by a Flightmate's inability to accept they were in the wrong"
         ],
         "main_trait_constraint": [
             "righteous"
