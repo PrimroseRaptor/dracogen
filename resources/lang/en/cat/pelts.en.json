@@ -117,14 +117,14 @@
         "NOTAIL": "no tail",
         "HALFTAIL": "half a tail",
         "NOPAW": "three legs",
-        "NOLEFTEAR": "a missing ear",
-        "NORIGHTEAR": "a missing ear",
-        "NOEAR": "no ears",
+        "NOLEFTEAR": "a missing horn",
+        "NORIGHTEAR": "a missing horn",
+        "NOEAR": "no horns",
         "vitiligo": "vitiligo",
-        "long_furred": "long-furred",
+        "long_furred": " ",
         "scarred": "scarred",
-        "fur_short": "short",
-        "fur_medium": "medium",
-        "fur_long": "long"
+        "fur_short": " ",
+        "fur_medium": " ",
+        "fur_long": " "
     }
 }
